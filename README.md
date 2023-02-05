@@ -1,6 +1,8 @@
-## Your Name
+Thomas McCoy
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A recent coding bootcamp graduate with a strong academic background, specializing in the backend. My rigorous, methodological approach to problem solving and ability to visualize abstract concepts, honed during my master's education in Mathematics, enabled me to excel as a student at Makers Academy - an intensive, 12-week coding bootcamp known for producing both technically competent and emotionally intelligent developers. During my time at Makers, I transitioned my understanding of numerical computation into the ability to deliver full-stack applications while working as part of an agile team.
+
+Coding provides an avenue for me to apply my passion for problem solving to create impactful and meaningful products that enhance people's lives. This is the  main driver of my love for technology and my decision to become a software developer.
 
 ## Projects
 
@@ -8,6 +10,24 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+
+
+## Education
+
+#### Makers Academy (December 2022 to March 2023)
+- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### University of Bristol (September 2018 to September 2022)
+
+- MSc Engineering Mathematics (Merit)
+- BSc Mathematics (First Class)
+-
 
 ## Work Experience
 
@@ -43,22 +63,7 @@ I honed my communication skills while completing my thesis at university, which 
 #### Another skill
 
 
-## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
