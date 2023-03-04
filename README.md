@@ -6,10 +6,10 @@ Coding provides an avenue for me to apply my passion for problem solving to crea
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description  | Tech       | Testing |
+| ---------------------------- | -----------  | -------------| --------| 
+| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git)                 | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
+| [Acebook](https://github.com/tmccoy99/acebook-air.git)| A Facebook clone where the team was challenged to work with an inherited codebase | JS, React, MongoDB, Mongoose, Express   | Jest, Cypress |
 
 
 ## Education
@@ -31,15 +31,22 @@ Coding provides an avenue for me to apply my passion for problem solving to crea
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+2015 – 2018: Assistant Tennis Coach, Milligan Tennis,
+Southdown Sports Club Lewes
+- Achieved a Level 1 Coaching Qualification which consisted of
+practical and theoretical training and required good time
+management skills alongside my A Levels.
+- Undertook significant responsibility for planning, coordinating,
+and delivering holiday camps for children aged 4 – 13 as well as
+term-time coaching squads.
+- Developed excellent verbal communication skills and used my
+initiative and friendly personality to motivate children to achieve in
+a safe and enjoyable environment.
+- Became a reliable, committed member of a team of 6 staff,
+supporting colleagues by being punctual, collaborative, and
+flexible to cover shifts as required.
+- Learned how to deal with complaints and pressure situations in a
+calm, logical and polite way.
 
 ## Skills
 
