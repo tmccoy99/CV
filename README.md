@@ -8,8 +8,10 @@ Coding provides an avenue for me to apply my passion for problem solving to crea
 
 | Name                         | Description  | Tech       | Testing |
 | ---------------------------- | -----------  | -------------| --------| 
-| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git)                 | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
-| [Acebook](https://github.com/tmccoy99/acebook-air.git)| A Facebook clone where the team was challenged to work with an inherited codebase | JS, React, MongoDB, Mongoose, Express   | Jest, Cypress |
+| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
+| [Acebook](https://github.com/tmccoy99/acebook-air.git)| A Facebook clone where the team was challenged to work with an inherited codebase | JS, React, MongoDB, Mongoose, Express, CSS   | Jest, Cypress |
+| [Banking Tech Test](https://github.com/tmccoy99/Banking-tech-test.git)| A mock tech test which demonstrates my ability to effectively break down a problem and write clean code | JS | Jest|
+| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| An Airbnb clone. This project was my first taste of agile development and is substantial considering it was built in only a week| Ruby, ActiveRecord, Sinatra, CSS | RSpec |
 
 
 ## Education
