@@ -1,9 +1,10 @@
-##### Thomas McCoy
+# Thomas McCoy
 
 A recent coding bootcamp graduate with a strong academic background, specializing in the backend. My rigorous, methodological approach to problem solving and ability to visualize abstract concepts, honed during my master's education in Mathematics, enabled me to excel as a student at Makers Academy - an intensive, 12-week coding bootcamp known for producing both technically competent and emotionally intelligent developers. During my time at Makers, I transitioned my understanding of numerical computation into the ability to deliver full-stack applications while working as part of an agile team.
 
-Coding provides an avenue for me to apply my passion for problem solving to create impactful and meaningful products that enhance people's lives. This is the  main driver of my love for technology and my decision to become a software developer.
+As a motivated individual who derives satisfaction from continual learning and growth, I am particularly drawn to the technology industry for its dynamic, ever-evolving nature. I am excited by the prospect of staying abreast of the latest advancements and trends, and leveraging new knowledge to drive innovation and create value.
 
+My languages and technologies: JavaScript, Ruby, Python, HTML, CSS, React, React Native, Jest, Cypress, MongoDB, Mongoose, Express, Expo, ActiveRecord, Sinatra, PostgreSQL,  RSpec, Pandas, SciPy
 ## Projects
 
 | Name                         | Description  | Tech       | Testing |
@@ -17,11 +18,7 @@ Coding provides an avenue for me to apply my passion for problem solving to crea
 ## Education
 
 #### Makers Academy (December 2022 to March 2023)
-- Collaborated as a pivotal member of an agile team, contributing to the successful delivery of three key projects within tight timelines. Demonstrated exceptional listening and communication skills during daily stand-ups and retrospectives, ensuring efficient project progress and seamless team coordination.
-- Earned positive external feedback for my proficiency in integrating object-oriented programming (OOP) and test-driven development (TDD) methodologies into my workflow. Adapted quickly to new concepts and skill sets, reflecting a strong aptitude for continuous learning and professional development.
-- Excelled in becoming proficient with unfamiliar technologies, including React, ActiveRecord, and Cypress, in a matter of days. Demonstrated an innate ability to thrive beyond my comfort zone and deliver exceptional results under challenging circumstances.
-- Consistently leveraged my strong verbal communication skills to maximise the benefits of pair programming, enabling my pairs to solve complex problems and accelerate learning.
-- Applied my rigorous mathematical approach to meticulously testing code across multiple frameworks, including Jest, React Native Testing Library, RSpec, and Cypress. Utilized critical thinking and problem-solving skills to ensure comprehensive test coverage and deliver high-quality, error-free code.
+ 
 
 #### University of Bristol, Merit in MSc Engineering Mathematics (September 2021 to September 2022)
 
@@ -47,7 +44,11 @@ flexible to cover shifts as required.
 calm, logical and polite way.
 
 ## Skills
-
+- Collaborated as a pivotal member of an agile team, contributing to the successful delivery of three key projects within tight timelines. Demonstrated exceptional listening and communication skills during daily stand-ups and retrospectives, ensuring efficient project progress and seamless team coordination.
+- Earned positive external feedback for my proficiency in integrating object-oriented programming (OOP) and test-driven development (TDD) methodologies into my workflow. Adapted quickly to new concepts and skill sets, reflecting a strong aptitude for continuous learning and professional development.
+- Excelled in becoming proficient with unfamiliar technologies, including React, ActiveRecord, and Cypress, in a matter of days. Demonstrated an innate ability to thrive beyond my comfort zone and deliver exceptional results under challenging circumstances.
+- Consistently leveraged my strong verbal communication skills to maximise the benefits of pair programming, enabling my pairs to solve complex problems and accelerate learning.
+- Applied my rigorous mathematical nature to meticulously testing code across multiple frameworks, including Jest, React Native Testing Library, RSpec, and Cypress. Utilized critical thinking and problem-solving skills to ensure comprehensive test coverage and deliver high-quality, error-free code.
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
 Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
