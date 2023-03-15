@@ -10,20 +10,18 @@ Coding provides an avenue for me to apply my passion for problem solving to crea
 | ---------------------------- | -----------  | -------------| --------| 
 | [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
 | [Acebook](https://github.com/tmccoy99/acebook-air.git)| A Facebook clone where the team was challenged to work with an inherited codebase | JS, React, MongoDB, Mongoose, Express, CSS   | Jest, Cypress |
-| [Banking Tech Test](https://github.com/tmccoy99/Banking-tech-test.git)| A mock tech test which demonstrates my ability to effectively break down a problem and write clean code | JS | Jest|
-| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| An Airbnb clone. This project was my first taste of agile development and is substantial considering it was built in only a week| Ruby, ActiveRecord, Sinatra, CSS | RSpec |
+| [Banking Tech Test](https://github.com/tmccoy99/Banking-tech-test.git)| A mock tech test which demonstrates my ability to effectively break down a problem, then devise a solution through application of test-driven development and object-oriented programming. | JS | Jest|
+| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| My first experience of agile development - an Airbnb clone built in a week| Ruby, ActiveRecord, Sinatra, CSS | RSpec |
 
 
 ## Education
 
 #### Makers Academy (December 2022 to March 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Collaborated as a pivotal member of an agile team, contributing to the successful delivery of three key projects within tight timelines. Demonstrated exceptional listening and communication skills during daily stand-ups and retrospectives, ensuring efficient project progress and seamless team coordination.
+- Earned positive external feedback for my proficiency in integrating object-oriented programming (OOP) and test-driven development (TDD) methodologies into my workflow. Adapted quickly to new concepts and skill sets, reflecting a strong aptitude for continuous learning and professional development.
+- Excelled in becoming proficient with unfamiliar technologies, including React, ActiveRecord, and Cypress, in a matter of days. Demonstrated an innate ability to thrive beyond my comfort zone and deliver exceptional results under challenging circumstances.
+- Consistently leveraged the benefits of pair programming to solve complex problems and accelerate my learning curve.
+- Applied my rigorous mathematical approach to meticulously testing code across multiple frameworks, including Jest, React Native Testing Library, RSpec, and Cypress. Utilized critical thinking and problem-solving skills to ensure comprehensive test coverage and deliver high-quality, error-free code.
 
 #### University of Bristol (September 2018 to September 2022)
 
