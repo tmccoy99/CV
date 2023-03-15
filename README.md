@@ -1,4 +1,4 @@
-Thomas McCoy
+##### Thomas McCoy
 
 A recent coding bootcamp graduate with a strong academic background, specializing in the backend. My rigorous, methodological approach to problem solving and ability to visualize abstract concepts, honed during my master's education in Mathematics, enabled me to excel as a student at Makers Academy - an intensive, 12-week coding bootcamp known for producing both technically competent and emotionally intelligent developers. During my time at Makers, I transitioned my understanding of numerical computation into the ability to deliver full-stack applications while working as part of an agile team.
 
@@ -11,7 +11,7 @@ Coding provides an avenue for me to apply my passion for problem solving to crea
 | [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
 | [Acebook](https://github.com/tmccoy99/acebook-air.git)| A Facebook clone where the team was challenged to work with an inherited codebase | JS, React, MongoDB, Mongoose, Express, CSS   | Jest, Cypress |
 | [Banking Tech Test](https://github.com/tmccoy99/Banking-tech-test.git)| A mock tech test which demonstrates my ability to effectively break down a problem, then devise a solution through application of test-driven development and object-oriented programming. | JS | Jest|
-| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| My first experience of agile development - an Airbnb clone built in a week| Ruby, ActiveRecord, Sinatra, CSS | RSpec |
+| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| My first experience of agile development - an Airbnb clone built in a week| Ruby, ActiveRecord, Sinatra, Postgres, CSS | RSpec |
 
 
 ## Education
@@ -20,14 +20,12 @@ Coding provides an avenue for me to apply my passion for problem solving to crea
 - Collaborated as a pivotal member of an agile team, contributing to the successful delivery of three key projects within tight timelines. Demonstrated exceptional listening and communication skills during daily stand-ups and retrospectives, ensuring efficient project progress and seamless team coordination.
 - Earned positive external feedback for my proficiency in integrating object-oriented programming (OOP) and test-driven development (TDD) methodologies into my workflow. Adapted quickly to new concepts and skill sets, reflecting a strong aptitude for continuous learning and professional development.
 - Excelled in becoming proficient with unfamiliar technologies, including React, ActiveRecord, and Cypress, in a matter of days. Demonstrated an innate ability to thrive beyond my comfort zone and deliver exceptional results under challenging circumstances.
-- Consistently leveraged the benefits of pair programming to solve complex problems and accelerate my learning curve.
+- Consistently leveraged my strong verbal communication skills to maximise the benefits of pair programming, enabling my pairs to solve complex problems and accelerate learning.
 - Applied my rigorous mathematical approach to meticulously testing code across multiple frameworks, including Jest, React Native Testing Library, RSpec, and Cypress. Utilized critical thinking and problem-solving skills to ensure comprehensive test coverage and deliver high-quality, error-free code.
 
-#### University of Bristol (September 2018 to September 2022)
+#### University of Bristol, Merit in MSc Engineering Mathematics (September 2021 to September 2022)
 
-- MSc Engineering Mathematics (Merit)
-- BSc Mathematics (First Class)
--
+#### University of Bristol, First Class Honours in BSc Mathematics (September 2018 to September 2021)
 
 ## Work Experience
 
