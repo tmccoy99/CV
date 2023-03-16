@@ -2,7 +2,7 @@
 
 As a recent coding bootcamp graduate with a strong academic background in mathematics, I am an enthusiastic and habitual problem solver, constantly seeking to apply my skills to real-world challenges. My discovery of programming in my second year of university was a revelation that ignited my passion for technology and drove me to pursue a career in the field. After graduating with experience of numerical computation and simulation in Python, I completed a rigorous, 12-week web development course at Makers Academy, where I gained valuable experience working in agile teams to develop full-stack web applications.  
 
-My time at Makers Academy solidified my passion for the dynamic and rapidly evolving world of software development. As a motivated individual who thrives on learning and growth, I am excited by the prospect of staying current with the latest advancements and leveraging new knowledge to drive innovation and create value. I look forward to applying my skills and experience to real-world challenges and collaborating with like-minded professionals to deliver exceptional results.
+My time at Makers Academy solidified my passion for the dynamic and rapidly evolving world of software development. As a motivated individual who thrives on learning and growth, I am excited by the prospect of staying current with the latest advancements and leveraging new knowledge to drive innovation and create value. I look forward to applying my skills and experience to real-world challenges and collaborating with like-minded professionals to deliver results.
 
 My languages and technologies: JavaScript, Ruby, Python, HTML, CSS, React, React Native, Jest, Cypress, MongoDB, Mongoose, Express, Expo, ActiveRecord, Sinatra, PostgreSQL, RSpec, Pandas, SciPy
 
