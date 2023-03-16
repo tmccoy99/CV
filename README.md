@@ -18,25 +18,21 @@ My languages and technologies: JavaScript, Ruby, Python, HTML, CSS, React, React
 ## Skills
 
 #### Communication
-My master's degree provided extensive research and project experience, which honed my ability to communicate effectively in both written and verbal forms. I am highly proficient in researching academic papers, writing scientific reports using LaTeX, and presenting findings to groups of academics. These experiences have strengthened my communication skills, enabling me to articulate complex ideas with clarity and precision.
-
-My advanced level of comprehension and clear explanations were invaluable during my time at Makers Academy, where I consistently demonstrated the ability to not only grasp new concepts quickly but also to effectively communicate them to my fellow students, aiding in their understanding and development.
+My master's degree provided extensive research and project experience, which honed my ability to communicate effectively in both written and verbal forms. I am highly proficient in researching academic papers, writing scientific reports using LaTeX, and presenting findings to groups of academics. These experiences have strengthened my communication skills, enabling me to articulate complex ideas with clarity and precision. My advanced level of comprehension and clear explanations were invaluable during my time at Makers Academy, where I consistently demonstrated the ability to not only grasp new concepts quickly but also to effectively communicate them to my fellow students, aiding in their understanding and development.
 
 #### Problem Solving
-My innate problem-solving ability is what led me to pursue a degree in mathematics, where I developed a rigorous and methodological approach to solving complex problems. This mindset enabled me to achieve first-class marks in every formative exam throughout my time at university, demonstrating my exceptional problem-solving skills.
+My innate problem-solving ability is what led me to pursue a degree in mathematics, where I developed a rigorous and methodological approach to solving complex problems. This mindset enabled me to achieve first-class marks in every formative exam throughout my time at university, demonstrating my exceptional problem-solving skills. Drawing on this experience, I am able to effectively break down complex programming problems into manageable components and develop structured, object-oriented solutions that align with industry best practices, as is evidenced by the positive feedback I received in an external review of my coding practices (how to share this?). Furthermore, my meticulous nature ensures that I test and accomodate for edge-cases in advance, resulting in code that is high-quality and error-free.
 
-Drawing on this experience, I am able to effectively break down complex programming problems into manageable components and develop structured, object-oriented solutions that align with industry best practices, as is evidenced by the positive feedback I received in an external review of my coding practices (how to share this?). Furthermore, the meticulousness imbued in me by my degrees ensures that I test and accomodate for edge-cases in advance, resulting in code that is high-quality and error-free.
+#### Continuous Learning
+I am a highly motivated and self-directed learner who actively seeks out challenges to expand my knowledge and skills. For example, after discovering my passion for programming at university I began studying computer science concepts such as data structures and complexity analysis in my spare time. This dedication allowed me to successfully apply these self-taught concepts to various projects, including my programme for [scoring games of bowling](https://github.com/tmccoy99/bowling_challenge_js.git). At Makers, I have a track record of challenging myself with unfamiliar technologies, such as when I pushed our team to develop a mobile app using React Native for the StepFreeGigs project, despite none of us having any experience in this area. Additionally, for the Makersbnb project, I took it upon myself to become proficient in ActiveRecord over a weekend, which enabled our team to quickly set up and efficiently query our database. I am committed to continuous learning and always seek out opportunities to develop my skills.
 
-####
-
-
-#### Another Skill
-- Collaborated as a pivotal member of an agile team, contributing to the successful delivery of three key projects within tight timelines. Demonstrated exceptional listening and communication skills during daily stand-ups and retrospectives, ensuring efficient project progress and seamless team coordination.
+<!-- #### Another Skill -->
+<!-- - Collaborated as a pivotal member of an agile team, contributing to the successful delivery of three key projects within tight timelines. Demonstrated exceptional listening and communication skills during daily stand-ups and retrospectives, ensuring efficient project progress and seamless team coordination.
 - Earned positive external feedback for my proficiency in integrating object-oriented programming (OOP) and test-driven development (TDD) methodologies into my workflow. Adapted quickly to new concepts and skill sets, reflecting a strong aptitude for continuous learning and professional development.
 - Excelled in becoming proficient with unfamiliar technologies, including React, ActiveRecord, and Cypress, in a matter of days. Demonstrated an innate ability to thrive beyond my comfort zone and deliver exceptional results under challenging circumstances.
 - Consistently leveraged my strong verbal communication skills to maximise the benefits of pair programming, enabling my pairs to solve complex problems and accelerate learning.
 - Applied my rigorous mathematical nature to meticulously testing code across multiple frameworks, including Jest, React Native Testing Library, RSpec, and Cypress. Utilized critical thinking and problem-solving skills to ensure comprehensive test coverage and deliver high-quality, error-free code.
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development. -->
 
 
 ## Education
@@ -53,7 +49,7 @@ Full time software development course focusing on:
 - BSc Mathematics (First Class)
 - Thesis: Optimising the Detection of Flaws in Aircraft Components. Devised a new form of solution for a certain class of inhomogeneous wave equations across time-frequency space.
 
-### Brighton and Hove Sixth Form College (September 2015 to June 2017)
+### Brighton, Hove and Sussex Sixth Form College (September 2015 to June 2017)
 - Mathematics A<sup>*</sup>
 - Further Mathematics A
 - Chemistry A
