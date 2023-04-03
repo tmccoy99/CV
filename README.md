@@ -4,16 +4,16 @@ As a recent coding bootcamp graduate with a strong academic background in mathem
 
 My time at Makers Academy solidified my passion for the dynamic and rapidly evolving world of software development. As a motivated individual who thrives on learning and growth, I am excited by the prospect of staying current with the latest advancements and leveraging new knowledge to drive innovation and create value. I look forward to applying my skills and experience to real-world challenges and collaborating with like-minded professionals to deliver results.
 
-My languages and technologies: JavaScript, Ruby, Python, HTML, CSS, React, React Native, Jest, Cypress, MongoDB, Mongoose, Express, Expo, ActiveRecord, Sinatra, PostgreSQL, RSpec, Pandas, SciPy
+My languages and technologies: Javascript, Typescript, Python, Ruby, HTML, CSS, React, Angular, React Native, Jest, Cypress, MongoDB, Mongoose, Express, Expo, ActiveRecord, Sinatra, PostgreSQL, RSpec, Pandas, SciPy.
 
 ## Projects
 
 | Name                         | Description  | Tech       | Testing |
 | ---------------------------- | -----------  | -------------| --------| 
-| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
-| [Acebook](https://github.com/tmccoy99/acebook-air.git)| A Facebook clone where the team was challenged to work with an inherited codebase | JS, React, MongoDB, Mongoose, Express, CSS   | Jest, Cypress |
+| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events.| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
+| [Acebook](https://github.com/tmccoy99/acebook-air.git)| A deployed social media site where the team was challenged to work with an inherited codebase and unfamiliar stack. | JS, React, MongoDB, Mongoose, Express, CSS   | Jest, Cypress |
 | [Banking Tech Test](https://github.com/tmccoy99/Banking-tech-test.git)| A mock tech test which demonstrates my ability to effectively break down a problem, then devise a solution through application of test-driven development and object-oriented programming. | JS | Jest|
-| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| My first experience of agile development - an Airbnb clone built in a week| Ruby, ActiveRecord, Sinatra, Postgres, CSS | RSpec |
+| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| A site where users can rent out and book accomodation, built by a small team in five days.| Ruby, ActiveRecord, Sinatra, Postgres, CSS | RSpec |
 
 ## Skills
 
@@ -41,10 +41,17 @@ Your previous experience is really important. You will need to make it really cl
 ## Education
 
 ### Makers Academy (December 2022 to March 2023)
-Full time software development course focusing on:
-- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
-- Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
+- Received positive feedback in an external review of my 
+coding practices for incorporating principles such as TDD, 
+OOP and SOLID into my workflow.
+- Developed full-stack web applications from conception to 
+deployment in agile teams, while under significant time 
+pressure.
+- Continuously pushed myself and my teams to tackle 
+unfamiliar technology.
+- Utilised testing and debugging tools to write clean, 
+thoroughly tested code.
+- Leveraged the benefits of pair programming to problemsolve and accelerate learning.
 
 
 ### University of Bristol (September 2018 to September 2022)
