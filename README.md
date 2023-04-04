@@ -13,7 +13,7 @@ My languages and technologies: Javascript, Typescript, Python, Ruby, HTML, CSS, 
 | [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events.| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
 | [Acebook](https://github.com/tmccoy99/acebook-air.git)| A deployed social media site where the team was challenged to work with an inherited codebase and unfamiliar stack. | JS, React, MongoDB, Mongoose, Express, CSS   | Jest, Cypress |
 | [Banking Tech Test](https://github.com/tmccoy99/Banking-tech-test.git)| A mock tech test which demonstrates my ability to effectively break down a problem, then devise a solution through application of test-driven development and object-oriented programming. | JS | Jest|
-| [Makersbnb](https://github.com/tmccoy99/Banking-tech-test.git)| A site where users can rent out and book accomodation, built by a small team in five days.| Ruby, ActiveRecord, Sinatra, Postgres, CSS | RSpec |
+| [Makersbnb]([[https://github.com/tmccoy99/Makersbnb.git](https://github.com/tmccoy99/Makersbnb.git)](https://github.com/tmccoy99/Makersbnb.git))| A site where users can rent out and book accomodation, built by a small team in five days.| Ruby, ActiveRecord, Sinatra, Postgres, CSS | RSpec |
 
 ## Skills
 
