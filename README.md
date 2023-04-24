@@ -32,7 +32,7 @@ My innate problem-solving ability is what led me to pursue a degree in mathemati
 I am a highly motivated and self-directed learner who actively seeks out challenges to expand my knowledge and skills. For example, after discovering my passion for programming at university, I began studying computer science concepts such as data structures and complexity analysis in my spare time. This dedication allowed me to successfully apply these self-taught concepts to various projects, including my programme for [scoring games of bowling](https://github.com/tmccoy99/bowling_challenge_js.git). At Makers, I have a track record of challenging myself with unfamiliar technologies, such as when I pushed our team to develop a mobile app using React Native for the StepFreeGigs project, despite none of us having any experience in this area. Additionally, for the Makersbnb project, I took it upon myself to become proficient in ActiveRecord over a weekend, which enabled our team to quickly set up and efficiently query our database. I am committed to continuous learning and always seek out opportunities to develop my skills.
 
 #### Teamwork
-Collaboration and teamwork are essential components of my work ethic, and I thrive in an environment where individuals work together to achieve a common goal. 
+Collaboration and teamwork are essential components of my work ethic, and I thrive in an environment where individuals work together to achieve a common goal. I consistently identify issues in team practices and take the initiative to improve them. For example, in one project, I noticed that code reviews were being made difficult by different formatter settings across our team, as varying string denotations and indentation would often obscure genuine alterations in pull requests. To rectify this, I compiled a set of standardised settings and presented it to the team at our next retrospective, after which all members adopted the settings. This idea helped streamline our code reviews, meaning pull requests were merged more quickly and team members received higher quality feedback. Additionally, my colleagues often express their appreciation for my approachability and helpfulness. During group projects, I am frequently the go-to person for debugging assistance, as my teammates feel comfortable seeking my advice and support. This trust and open communication not only foster a positive work environment but also contribute to our team's overall success.
 
 <!-- #### Another Skill -->
 <!-- - Collaborated as a pivotal member of an agile team, contributing to the successful delivery of three key projects within tight timelines. Demonstrated exceptional listening and communication skills during daily stand-ups and retrospectives, ensuring efficient project progress and seamless team coordination.
@@ -94,8 +94,3 @@ supporting colleagues by being punctual, collaborative, and
 flexible to cover shifts as required.
 - Learned how to deal with complaints and pressure situations in a
 calm, logical and polite way.
-
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
