@@ -10,10 +10,11 @@ My languages and technologies: Javascript, Typescript, Python, Ruby, HTML, CSS, 
 
 | Name                         | Description  | Tech       | Testing |
 | ---------------------------- | -----------  | -------------| --------| 
-| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events.| JS, React Native, Expo, Express | Jest, Jest-Native, Cypress
-| [Acebook](https://github.com/tmccoy99/acebook-air.git)| A deployed social media site where the team was challenged to work with an inherited codebase and unfamiliar stack. | JS, React, MongoDB, Mongoose, Express, CSS   | Jest, Cypress |
+| [StepFreeGigs](https://github.com/tmccoy99/StepFreeGigs.git) | A from-scratch mobile app for locating and planning journeys to wheelchair accessible events.| JavaScript, React Native, Expo, Express, Node | Jest, Jest-Native, Cypress
+| [Acebook](https://github.com/tmccoy99/acebook-air.git)| A deployed social media site where the team was challenged to work with an inherited codebase and unfamiliar stack. | JavaScript, React, MongoDB, Mongoose, Express, Node, HTML, CSS   | Jest, Cypress |
+| [TreeGenie](https://github.com/tmccoy99/Family-Tree-Visualiser.git) | A work in progress solo project for visualising family trees | TypeScript, Angular, MongoDB, Mongoose, Express, Node, HTML, CSS, | Jest, Cypress |
 | [Banking Tech Test](https://github.com/tmccoy99/Banking-tech-test.git)| A mock tech test which demonstrates my ability to effectively break down a problem, then devise a solution through application of test-driven development and object-oriented programming. | JS | Jest|
-| [Makersbnb](https://github.com/tmccoy99/Makersbnb.git)| A site where users can rent out and book accomodation, built by a small team in five days.| Ruby, ActiveRecord, Sinatra, Postgres, CSS | RSpec |
+| [Makersbnb](https://github.com/tmccoy99/Makersbnb.git)| A site where users can rent out and book accomodation, built by a small team in five days.| Ruby, ActiveRecord, Sinatra, Postgres, HTML, CSS | RSpec |
 
 ## Skills
 
